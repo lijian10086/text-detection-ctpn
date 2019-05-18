@@ -61,3 +61,9 @@ python ./main/train.py
 <img src="/data/res/007.jpg" width=320 height=240 /><img src="/data/res_oriented/007.jpg" width=320 height=240 />
 <img src="/data/res/008.jpg" width=320 height=480 /><img src="/data/res_oriented/008.jpg" width=320 height=480 />
 ***
+## 李剑备注
+- https://www.cnblogs.com/lillylin/p/6277061.html
+- 【论文翻译】2016CTPN
+- https://zhuanlan.zhihu.com/p/49588885?utm_source=wechat_timeline&utm_medium=social&utm_oi=589576447262199808&from=timeline
+- 从代码实现的角度理解CTPN
+
